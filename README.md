@@ -5,7 +5,7 @@
     2020 Digi+ Talent 跨域人才加速計畫 - 創夢項目
     <br>
     <br>
-    <img src="https://i.imgur.com/2A8sy46.jpg" alt="Demo example"/>
+    <img src="https://i.imgur.com/jghAQnA.png" alt="Demo example"/>
     <br>
     <br>
   </p>
