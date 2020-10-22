@@ -5,7 +5,7 @@
     2020 Digi+ Talent 跨域人才加速計畫 - 創夢項目
     <br>
     <br>
-    <img src="https://media.giphy.com/media/ECRLccRgqnJSW1BWmW/giphy.gif" alt="Demo example"/>
+    <img src="https://i.imgur.com/2A8sy46.jpg" alt="Demo example"/>
     <br>
     <br>
   </p>
@@ -13,9 +13,10 @@
 
 ## 目錄
 
-- [最新狀態](#最新狀態)
-- [關於我們](#關於我們)
-- [更新日誌](#更新日誌)
+- [最新狀態](#news)
+- [關於我們](#about-us)
+- [專案介紹](#news)
+- [更新日誌](#update-log)
 
 **最新狀態**
 
