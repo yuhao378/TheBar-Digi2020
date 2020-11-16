@@ -20,7 +20,7 @@
 
 # 最新狀態
 
-- <https://digi2020-webtest.web.app/>
+- <https://tw-thebar.web.app>
 
 # 關於我們
 
